@@ -3,7 +3,7 @@ echo("Hello world!<br>");
 echo "Hello world!<br>";
 echo "Hello", "world!<br>";
 echo "Hello". "world!<br>";
-
+ 
 $a = "Ola";
 $b = 10;
 $c = 1.5;
